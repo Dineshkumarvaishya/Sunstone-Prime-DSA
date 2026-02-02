@@ -13,8 +13,8 @@ int gcd(int a,int b)
 }
 int main()
 {
-    int c=INT_MAX;   //Positive Infinity
-    int d=INT_MIN;  //Negative Infinity
+    // int c=INT_MAX;   //Positive Infinity
+    // int d=INT_MIN;  //Negative Infinity
     int a,b;
     cin>>a>>b;
     while(b!=0)
