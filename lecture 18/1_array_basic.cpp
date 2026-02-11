@@ -29,6 +29,7 @@ int main() {
     // update
     for(int i=0;i<s;i++){
         arr[i]+=i;
+         cout<<i<<" ";
     }
     cout<<endl;
     for(int i=0;i<s;i++){
